@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "rspec"
+gem "sinatra"
+gem "sinatra-contrib"
+gem "selenium-webdriver"
+gem "capybara"
+gem "webrick", "~> 1.7"
+gem "rexml"
+gem "launchy"
